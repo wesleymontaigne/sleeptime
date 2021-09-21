@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Sleep Time
+GenericName=Sleep Time
+Comment=desligue seu computador programaticamente
+Categories=Utility;Accessories;
+Exec=sleeptime
+Icon=https://www.pikpng.com/pngl/m/74-746272_free-icons-png-icon-power-off-clipart.png
+Terminal=false
+Type=Application
+Keywords=Turn off;Power off;Sleep;schedule;
