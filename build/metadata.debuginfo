@@ -1,0 +1,5 @@
+[Runtime]
+name=com.github.wesleymontaigne.sleeptime.Debug
+
+[ExtensionOf]
+ref=app/com.github.wesleymontaigne.sleeptime/x86_64/master

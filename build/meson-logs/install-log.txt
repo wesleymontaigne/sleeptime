@@ -1,0 +1,19 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/usr/bin/sleeptime
+/usr/share/applications/sleeptime.desktop
+/usr/share/metainfo/sleeptime.appdata.xml
+/usr/share/icons/hicolor/16x16/apps/sleeptime.svg
+/usr/share/icons/hicolor/16x16@2/apps/sleeptime.svg
+/usr/share/icons/hicolor/24x24/apps/sleeptime.svg
+/usr/share/icons/hicolor/24x24@2/apps/sleeptime.svg
+/usr/share/icons/hicolor/32x32/apps/sleeptime.svg
+/usr/share/icons/hicolor/32x32@2/apps/sleeptime.svg
+/usr/share/icons/hicolor/48x48/apps/sleeptime.svg
+/usr/share/icons/hicolor/48x48@2/apps/sleeptime.svg
+/usr/share/icons/hicolor/64x64/apps/sleeptime.svg
+/usr/share/icons/hicolor/64x64@2/apps/sleeptime.svg
+/usr/share/icons/hicolor/128x128/apps/sleeptime.svg
+/usr/share/icons/hicolor/128x128@2/apps/sleeptime.svg
+/usr/share/data/pw.png
+/usr/share/data/pw2.png

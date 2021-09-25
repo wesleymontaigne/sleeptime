@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Sleep Time
+GenericName=Sleep Time
+Comment=turn off your computer programmatically
+Categories=Utility;Accessories;
+Exec=sleeptime
+Icon=/pw.png
+Terminal=false
+Type=Application
+Keywords=Turn off;Power off;Sleep;schedule;

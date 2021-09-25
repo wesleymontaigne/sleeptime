@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 wesley montaigne <wesleybudista@gmail.com> -->
+<component type="desktop">
+  <id>com.github.wesleymontaigne.sleeptime</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Sleep Time</name>
+  <summary>In Just Time</summary>
+  <description>
+    <p>schedule your computer to shut down whenever you want.</p>
+  </description>
+</component>
